@@ -8,7 +8,7 @@ from telegram.ext import MessageHandler, filters, CallbackContext
 class AnonymousForwardBot:
 
     def __init__(self):
-        self.your_user_id = 925196672 
+        self.your_user_id =  
         self.friend_responses = {'Вика': 'Привет, милашка Вика! Ну что, счет 4/5?)) Ну готовься)))',
                                  'Алиса': 'Привет! Ты что вчера обиделась? Ну не обижайся, тебе улыбка больше к лицу)',
                                  'Елена': 'Здравствуй, моя подруга Елена!'}
